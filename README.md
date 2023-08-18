@@ -10,7 +10,6 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
@@ -45,10 +44,6 @@ By building this application, you will learn how to use React.**
 
 ### Key Features <a name="key-features"></a>
 - **A responsive webpage to present my knowledge, experience and projects in programming.**
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-<p align="right">Coming soon..</p>
 
 <!-- GETTING STARTED -->
 
