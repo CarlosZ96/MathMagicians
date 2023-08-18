@@ -50,7 +50,7 @@ By building this application, you will learn how to use React.**
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-Run git clone https://github.com/CarlosZ96/Tasks.git
+Run git clone https://github.com/CarlosZ96/mathmagicians
 
 ### Prerequisites
 
@@ -58,7 +58,7 @@ Basic Knowledge of HTML, Javascript and CSS.
 
 ### Install
 
-git clone your-repo
+git clone https://github.com/CarlosZ96/mathmagicians
 npm install
 
 ### Usage
@@ -114,7 +114,7 @@ If you like this project, you can give a ⭐️ for this repository.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank:<br>
+I would like to thank Microverse for giving me this wonderful opportunity to work on this project:<br>
 https://www.microverse.org/ <br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
