@@ -58,19 +58,20 @@ Basic Knowledge of HTML, Javascript and CSS.
 
 ### Install
 
-Install this project with: Install a code editor of your choice VScode or Atom.
+git clone your-repo
+npm install
 
 ### Usage
 
-Just a simple html, JavaScript and css made for testing github functionalities.
+npm start
 
 ### Run tests
 
-Open the index.html file whit your favorite browser.
+npm test
 
 ### Deployment
 
-You can deploy this project using visual code or github itself on Settings > pages > Deploy from a Branch.
+npm run build
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,7 +90,8 @@ You can deploy this project using visual code or github itself on Settings > pag
 
 ## 🔭 Future Features <a name="future-features"></a>
 
--  **Ruby**
+-  **Attractive UI**
+-  **Advance Math Operations**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
