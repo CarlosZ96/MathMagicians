@@ -1,10 +1,10 @@
 import React from 'react';
-import '../StyleSheets/calculator.css'
+import '../StyleSheets/calculator.css';
 
 function Calculatorb() {
   return (
-    <div className='calculator-container'>
-      <input type="number" className='number-input' placeholder='0' />
+    <div className= 'calculator-container'>
+      <input type= 'number' className= 'number-input' placeholder='0' />
       <div className='buttons-container'>
         <div className='numbers-container'>
           <button className='calculator-button'>AC</button>
