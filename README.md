@@ -115,7 +115,7 @@ If you like this project, you can give a ⭐️ for this repository.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse for giving me this wonderful opportunity to work on this project:<br>
-https://www.microverse.org/ <br>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
