@@ -1,5 +1,5 @@
-import React from "react";
-import "../StyleSheets/calculator.css";
+import React from 'react';
+import '../StyleSheets/calculator.css';
 
 function Calculatorb() {
   return (
