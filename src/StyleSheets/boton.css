@@ -1,0 +1,16 @@
+.calculator-button {
+  padding: 0;
+  margin: 0;
+  background-color: aliceblue;
+  height: 100px;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.zero {
+  grid-column: span 2;
+}
+
+.operator {
+  background-color: #ff8843;
+}
