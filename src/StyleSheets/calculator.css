@@ -1,7 +1,7 @@
 .calculator-container {
   height: max-content;
   width: 700px;
-  background-color: darkgrey;
+  background-color: #858694;
 }
 
 .number-input {
@@ -10,7 +10,7 @@
   padding: 0;
   border: 0;
   color: aliceblue;
-  background-color: #8e919c;
+  background-color: #858694;
   font-family: 'VT323', monospace;
   font-size: 50px;
   text-align: end;
@@ -24,14 +24,17 @@
 .buttons-container {
   display: grid;
   grid-template-columns: 75% 25%;
+  gap: 1px;
 }
 
 .numbers-container {
   display: grid;
   grid-template-columns: auto auto auto;
+  gap: 1px;
 }
 
 .basic-operations-container {
   display: flex;
   flex-direction: column;
+  gap: 1px;
 }
