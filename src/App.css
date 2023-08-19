@@ -11,17 +11,8 @@
   flex-direction: row;
   width: max-content;
 }
-
-.quote {
-  display: flex;
-  flex-direction: column;
-  width: 100px;
-  color: aliceblue;
-  justify-content: center;
-  align-items: center;
-}
-
-.emoji {
-  width: 20px;
-  height: 20px;
-}
+ .quote-text{
+  color: black;
+  width: 700px;
+  text-align: justify;
+ }
