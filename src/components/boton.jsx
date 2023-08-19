@@ -1,6 +1,6 @@
 import '../StyleSheets/boton.css';
 import PropTypes from 'prop-types';
-import React from 'react'; 
+import React from 'react';
 
 function Button({ className, children }) {
   return (
@@ -9,8 +9,12 @@ function Button({ className, children }) {
 }
 
 Button.propTypes = {
-  className: PropTypes.string, // Add prop-type validation for className
-  children: PropTypes.node.isRequired, // Add prop-type validation for children
+  className: PropTypes.string,
+  children: PropTypes.node.isRequired,
 };
+
+Button.defaultTypes = {
+  className: "",
+}
 
 export default Button;
