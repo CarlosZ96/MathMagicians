@@ -1,6 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/128/1325/1325970.png" alt="logo" width="140"  height="auto" />
   <br/>
   <h3><b>Magicians Math</b></h3>
 
@@ -10,7 +11,6 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
@@ -46,16 +46,12 @@ By building this application, you will learn how to use React.**
 ### Key Features <a name="key-features"></a>
 - **A responsive webpage to present my knowledge, experience and projects in programming.**
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-<p align="right">Coming soon..</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-Run git clone https://github.com/CarlosZ96/Tasks.git
+Run git clone https://github.com/CarlosZ96/mathmagicians
 
 ### Prerequisites
 
@@ -63,19 +59,20 @@ Basic Knowledge of HTML, Javascript and CSS.
 
 ### Install
 
-Install this project with: Install a code editor of your choice VScode or Atom.
+git clone https://github.com/CarlosZ96/mathmagicians
+npm install
 
 ### Usage
 
-Just a simple html, JavaScript and css made for testing github functionalities.
+npm start
 
 ### Run tests
 
-Open the index.html file whit your favorite browser.
+npm test
 
 ### Deployment
 
-You can deploy this project using visual code or github itself on Settings > pages > Deploy from a Branch.
+npm run build
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +91,8 @@ You can deploy this project using visual code or github itself on Settings > pag
 
 ## 🔭 Future Features <a name="future-features"></a>
 
--  **Ruby**
+-  **Attractive UI**
+-  **Advance Math Operations**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,8 +115,8 @@ If you like this project, you can give a ⭐️ for this repository.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank:<br>
-https://www.microverse.org/ <br>
+I would like to thank Microverse for giving me this wonderful opportunity to work on this project<br>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

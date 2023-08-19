@@ -1,0 +1,40 @@
+.calculator-container {
+  height: max-content;
+  width: 700px;
+  background-color: #858694;
+}
+
+.number-input {
+  width: 100%;
+  height: 80px;
+  padding: 0;
+  border: 0;
+  color: aliceblue;
+  background-color: #858694;
+  font-family: 'VT323', monospace;
+  font-size: 50px;
+  text-align: end;
+}
+
+::placeholder {
+  color: aliceblue;
+  opacity: 1;
+}
+
+.buttons-container {
+  display: grid;
+  grid-template-columns: 75% 25%;
+  gap: 1px;
+}
+
+.numbers-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 1px;
+}
+
+.basic-operations-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
