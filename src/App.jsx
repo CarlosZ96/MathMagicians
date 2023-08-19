@@ -3,9 +3,6 @@ import Calculatorb from './components/Calculator';
 import RandomQuote from './components/quote';
 
 function App() {
-
-
-
   return (
     <div className="App">
       <div className="Title-container">

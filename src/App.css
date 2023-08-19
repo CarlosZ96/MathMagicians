@@ -11,8 +11,9 @@
   flex-direction: row;
   width: max-content;
 }
- .quote-text{
+
+.quote-text {
   color: black;
   width: 700px;
   text-align: justify;
- }
+}
