@@ -8,9 +8,9 @@ function App() {
       <div className="Title-container">
         <h1>Math-Magicians</h1>
       </div>
-      <div className='appContainer'>
-      <Calculatorb />
-      <RandomQuote />
+      <div className="appContainer">
+        <Calculatorb />
+        <RandomQuote />
       </div>
     </div>
   );
