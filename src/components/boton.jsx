@@ -1,8 +1,6 @@
 import '../StyleSheets/boton.css';
 import PropTypes from 'prop-types';
-
-import React from 'react'; // Import React if not already imported
-import '../StyleSheets/boton.css';
+import React from 'react'; 
 
 function Button({ className, children }) {
   return (
