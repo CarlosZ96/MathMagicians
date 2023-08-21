@@ -1,13 +1,17 @@
 import './App.css';
 import Calculatorb from './components/Calculator';
+import RandomQuote from './components/quote';
 
 function App() {
   return (
     <div className="App">
-      <div className="Tittle-container">
-        <h1 className="tittle">Math Magicians</h1>
+      <div className="Title-container">
+        <h1>Math-Magicians</h1>
       </div>
-      <Calculatorb />
+      <div className="appContainer">
+        <Calculatorb />
+        <RandomQuote />
+      </div>
     </div>
   );
 }

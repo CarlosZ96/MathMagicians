@@ -5,3 +5,15 @@
   flex-direction: column;
   align-items: center;
 }
+
+.Title-container {
+  display: flex;
+  flex-direction: row;
+  width: max-content;
+}
+
+.quote-text {
+  color: black;
+  width: 700px;
+  text-align: justify;
+}
