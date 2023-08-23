@@ -1,4 +1,5 @@
 import './App.css';
+import React from 'react';
 import { Link, Route, Routes } from 'react-router-dom';
 import Calculatorb from './components/Calculator';
 import RandomQuote from './components/quote';
