@@ -8,17 +8,17 @@ function App() {
   return (
     <div className="App">
       <header className="Header-Container">
-          <h1 className="Tittle"> Math Magicians</h1>
-          <ul>
-            <Link to="/"><li className="menu">Home</li></Link>
-            <Link to="/calculator"><li className="menu">Calculator</li></Link>
-            <Link to="/quote"><li className="menu">Quote</li></Link>
-          </ul>
+        <h1 className="Tittle"> Math Magicians</h1>
+        <ul>
+          <Link to="/"><li className="menu">Home</li></Link>
+          <Link to="/calculator"><li className="menu">Calculator</li></Link>
+          <Link to="/quote"><li className="menu">Quote</li></Link>
+        </ul>
       </header>
-        <Routes>
-        <Route path='/' element={<Home />} />
-        <Route path='/calculator' element={<Calculatorb />} />
-        <Route path='/quote' element={<RandomQuote />} />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/calculator" element={<Calculatorb />} />
+        <Route path="/quote" element={<RandomQuote />} />
       </Routes>
     </div>
   );

@@ -16,7 +16,7 @@ function Calculatorb() {
   };
 
   return (
-    <div className='calculator-section'>
+    <div className="calculator-section">
       <h1 className="calculatortittle">Lets do Some Math!</h1>
       <div className="calculator-container">
         <input
