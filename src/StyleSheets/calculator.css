@@ -1,6 +1,6 @@
 .calculator-container {
   height: max-content;
-  width: 700px;
+  width: 1000px;
   background-color: #858694;
 }
 
@@ -37,4 +37,16 @@
   display: flex;
   flex-direction: column;
   gap: 1px;
+}
+
+.calculatortittle {
+  width: 50%;
+  margin-left: 25px;
+}
+
+.calculator-section {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin-right: 25px;
 }
